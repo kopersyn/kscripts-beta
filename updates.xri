@@ -8,19 +8,25 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="jstretch-beta1-20261029.zip" sha1="85ee4db758ca8cbdf54a2cdf45a18e3ae5641505" type="script" releaseDate="20261029">
+      <package fileName="kscripts-beta-20261029.zip" sha1="3f61c12e4463f12b73380bc9186ccb78b1c15aed" type="script" releaseDate="20261029">
          <title>
-            kScripts Beta - JStretch 1.0 beta 1
+            kScripts Beta - JStretch 1.0 beta 2 + JSXTAddon 1.0 beta 1 + kPong 1.0 beta 1
          </title>
          <description>
-            <h2>JStretch 1.0 beta 1</h2>
-            <p>New stretch method by <a href="https://app.astrobin.com/u/jedrzej_adaszek">Jędrzej Adaszek</a> for linear images:
+            <h2>JStretch 1.0 beta 2</h2>
+            <p>Stretch method by <a href="https://app.astrobin.com/u/jedrzej_adaszek">Jędrzej Adaszek</a> for linear images:
             optional histogram pre-stretch (interactive histogram), ArcsinhStretch with automatic black point for star color,
             then MaskedStretch with an automatic background reference.</p>
+            <p>New in beta 2: preview Fit / Lock view, "multi" SCNR (green, magenta, red, blue), saturation,
+            clipping marks in the preview, clearer preview error messages.</p>
+            <h2>JSXTAddon 1.0 beta 1</h2>
+            <p>Runs StarXTerminator on large images in overlapping panels and joins the results with smooth blending.
+            Idea by <a href="https://app.astrobin.com/u/jedrzej_adaszek">Jędrzej Adaszek</a>. Requires StarXTerminator.</p>
+            <h2>kPong 1.0 beta 1</h2>
+            <p>Pong game against the CPU, optionally on top of your image. Arrow keys / W-S or mouse, SPACE to start.</p>
             <p>Please report problems and results to the author.</p>
             <p>Copyright (c) 2026 <a href="https://app.astrobin.com/u/koperson">Igor Koprowicz</a>. All Rights Reserved.</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2026-10-29T15:01:46.895Z" encoding="Base64">49IoQPnnCGryoLriT8/lfrdsik/+0M9rfpL3IxcRNcUr1BVZpUTGs0X4T6xy90iCfibwmNH40MRIBQ4hJ3hzDg==</Signature>
