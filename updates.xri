@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      Beta testing repository for the kScripts Suite by Igor Koprowicz.
+      Contains unreleased scripts for testing - they may change or have bugs.
+      Beta scripts appear in the Script menu under kScripts Beta and do not replace the released kScripts Bundle.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.9.4:1.9.9">
+      <package fileName="jstretch-beta1-20261029.zip" sha1="85ee4db758ca8cbdf54a2cdf45a18e3ae5641505" type="script" releaseDate="20261029">
+         <title>
+            kScripts Beta - JStretch 1.0 beta 1
+         </title>
+         <description>
+            <h2>JStretch 1.0 beta 1</h2>
+            <p>New stretch method by <a href="https://app.astrobin.com/u/jedrzej_adaszek">Jędrzej Adaszek</a> for linear images:
+            optional histogram pre-stretch (interactive histogram), ArcsinhStretch with automatic black point for star color,
+            then MaskedStretch with an automatic background reference.</p>
+            <p>Please report problems and results to the author.</p>
+            <p>Copyright (c) 2026 <a href="https://app.astrobin.com/u/koperson">Igor Koprowicz</a>. All Rights Reserved.</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="IgorKoprowicz" timestamp="2026-10-29T15:01:46.895Z" encoding="Base64">49IoQPnnCGryoLriT8/lfrdsik/+0M9rfpL3IxcRNcUr1BVZpUTGs0X4T6xy90iCfibwmNH40MRIBQ4hJ3hzDg==</Signature>
